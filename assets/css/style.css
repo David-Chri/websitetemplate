@@ -58,6 +58,10 @@
   color: #0077b5;
 }
 
+.handshake {
+  color: #004d40;
+}
+
 .angellist {
   color: grey;
 }
@@ -69,6 +73,10 @@
 
 .linkedin:hover {
   background-color: #0077b5;
+}
+
+.handshake:hover {
+  background-color: #fafafa;
 }
 
 .angellist:hover {
@@ -320,7 +328,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #01b7ff repeat;
   position: relative;
 }
 
